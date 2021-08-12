@@ -535,7 +535,7 @@ namespace JCM_library
                         state = "ESCROW";
                         novcanica = moneyCommands[status[3]];
                         sendCommand("Stack-1");
-                        var ack = receiveData();
+                        //var ack = receiveData();
                     }
 
                     // Odbijeno stanje
