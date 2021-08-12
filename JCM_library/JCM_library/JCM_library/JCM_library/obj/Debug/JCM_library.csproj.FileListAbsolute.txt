@@ -1,0 +1,5 @@
+C:\Users\Petar\source\repos\JCM_library\JCM_library\bin\Debug\JCM_library.dll
+C:\Users\Petar\source\repos\JCM_library\JCM_library\bin\Debug\JCM_library.pdb
+C:\Users\Petar\source\repos\JCM_library\JCM_library\obj\Debug\JCM_library.csproj.CoreCompileInputs.cache
+C:\Users\Petar\source\repos\JCM_library\JCM_library\obj\Debug\JCM_library.dll
+C:\Users\Petar\source\repos\JCM_library\JCM_library\obj\Debug\JCM_library.pdb
