@@ -1,0 +1,5 @@
+System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count, Int32 timeout)
+   at System.IO.Ports.SerialStream.Read(Byte[] array, Int32 offset, Int32 count)
+   at System.IO.Ports.SerialPort.Read(Byte[] buffer, Int32 offset, Int32 count)
+   at JCM_library.JCM_Controller.receiveData() in C:\Users\Petar\source\repos\JCM_library\JCM_library\JCM_Controller.cs:line 296
